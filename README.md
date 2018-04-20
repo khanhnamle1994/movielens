@@ -15,16 +15,16 @@ Here are the different notebooks:
 ## Dependencies
 
 Choose the latest versions of any of the dependencies below:
-* numpy
-* pandas
-* scipy
-* matplotlib
-* wordcloud
-* searborn
-* sklearn
-* surprise
-* keras
-* h5py
+* [pandas](https://pandas.pydata.org/)
+* [numpy](http://www.numpy.org/)
+* [scipy](https://www.scipy.org/)
+* [matplotlib](https://matplotlib.org/)
+* [sklearn](http://scikit-learn.org/stable/)
+* [wordcloud](https://github.com/amueller/word_cloud)
+* [searborn](https://seaborn.pydata.org/)
+* [surprise](http://surpriselib.com/)
+* [keras](https://keras.io/)
+* [h5py](https://www.h5py.org/)
 
 ## License
 
